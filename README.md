@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Sina 👋
 
-<!--
-**sinashs/sinashs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Business Intelligence Analyst** | San Francisco Bay Area
 
-Here are some ideas to get you started:
+I build analytics systems that turn messy operational data into decisions people act on.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Current stack:** BigQuery · SQL · Python · Streamlit · Tableau · Looker Studio · Plotly
+
+**Featured Projects:**
+- 🛒 [Walmart KPI Executive Dashboard](https://github.com/sinashs/Walmart-KPI-Executive-Dashboard) — Full BI lifecycle: BigQuery → SQL views → KPI logic → Streamlit
+- 👥 [HR Attrition Intelligence Dashboard](https://github.com/sinashs/HR_Attrition_intelligenece_Dashboard) — Looker Studio + ML attrition prediction
+- 🏗️ [Escon Project Dashboard](https://github.com/sinashs/escon-streamlit-app) — Real-world construction operations BI tool
+
+**Background:** MBA (Marketing) + MS Business Analytics | Patent holder | SFSU MSBA Mentor
+
+📬 [LinkedIn](https://linkedin.com/in/sina-shariati-5a26227a) | Open to Senior BI Analyst / Analytics Engineer roles
