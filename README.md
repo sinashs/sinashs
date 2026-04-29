@@ -1,10 +1,10 @@
 ## Hi, I'm Sina 👋
 
-**Business Intelligence Analyst** | San Francisco Bay Area
+**Senior Business Intelligence Analyst** | San Francisco Bay Area
 
 I build analytics systems that turn messy operational data into decisions people act on.
 
-**Current stack:** BigQuery · Snowflake. DBT . SQL · Python · Streamlit · Tableau · Looker Studio · Plotly
+**Current stack:** BigQuery · Snowflake . DBT . SQL · Python · Streamlit · Tableau · Looker Studio · Plotly
 
 **Featured Projects:**
 - 🛒 [Walmart KPI Executive Dashboard](https://github.com/sinashs/Walmart-KPI-Executive-Dashboard) — Full BI lifecycle: BigQuery → SQL views → KPI logic → Streamlit
