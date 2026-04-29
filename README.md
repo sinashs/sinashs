@@ -11,6 +11,6 @@ I build analytics systems that turn messy operational data into decisions people
 - 👥 [HR Attrition Intelligence Dashboard](https://github.com/sinashs/HR_Attrition_intelligenece_Dashboard) — Looker Studio + ML attrition prediction
 - 🏗️ [Escon Project Dashboard](https://github.com/sinashs/escon-streamlit-app) — Real-world construction operations BI tool
 
-**Background:** MBA (Marketing) + MS Business Analytics | Patent holder | SFSU MSBA Mentor
+**Background:** MBA (Marketing) + MS Business Analytics | Award/Patent holder | SFSU MSBA Mentor
 
 📬 [LinkedIn](https://linkedin.com/in/sina-shariati-5a26227a) | Open to Senior BI Analyst / Analytics Engineer roles
